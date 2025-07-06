@@ -1,0 +1,13 @@
+name: ml_decision_tree
+description: A native decision tree classifier (ID3) for Dart.
+version: 1.0.0
+homepage: https://github.com/CelkMehmett/ml_decision_tree
+repository: https://github.com/CelkMehmett/ml_decision_tree
+
+environment:
+  sdk: ">=3.8.0 <4.0.0"
+
+dependencies: {}
+
+dev_dependencies:
+  test: ^1.25.0
